@@ -62,9 +62,9 @@ A `MainActivity` inicializa o ecossistema da aplicação.
 ## 📸 Evidências
 Abaixo, capturas de tela demonstrando o funcionamento da aplicação:
 
-| Lista Vazia | Cadastro de Tarefa | Lista com Tarefas | Edição de Tarefa |
-|:---:|:---:|:---:|:---:|
-| ![Lista Vazia](images/lista_vazia.png) | ![Cadastro](images/cadastro.png) | ![Lista com Itens](images/lista_itens.png) | ![Edição](images/edicao.png) |
+| Lista Vazia | Cadastro de Tarefa | Lista com Tarefas | Edição de Tarefa |                 Tarefa Concluída                 | 
+|:---:|:---:|:---:|:---:|:------------------------------------------------:|
+| ![Lista Vazia](images/lista_vazia.png) | ![Cadastro](images/cadastro.png) | ![Lista com Itens](images/lista_itens.png) | ![Edição](images/edicao.png) | ![Tarefa Concluída](images/tarefa_concluida.png) |
 
 > [!NOTE]
 > As imagens acima são ilustrativas do fluxo implementado durante a atividade.
